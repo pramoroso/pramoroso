@@ -47,12 +47,6 @@ Ferramentas interativas que criei aplicando conceitos de gestão de projetos —
 
 **Metodologias:** PMBOK · Gestão de Riscos · Gestão de Valor Agregado (EVM) · Ágil / Scrum · Kanban
 
----
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramoroso&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramoroso&layout=compact&theme=default)
 
 ---
 
